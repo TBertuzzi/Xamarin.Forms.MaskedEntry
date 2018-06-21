@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MaskedEntrySample"
+             xmlns:control="clr-namespace:Xamarin.Forms.MaskedEntry;assembly=Xamarin.Forms.MaskedEntry"
+             x:Class="MaskedEntrySample.MainPage" Padding="0,0,20,0">
+
+    <StackLayout>
+        <Label Text="Phone"></Label>
+        <control:MaskedEntry Placeholder="Phone" Mask="(XX)XXXX-XXXX" Keyboard="Numeric" ></control:MaskedEntry>
+        <Label Text="Number of registration"></Label>
+        <control:MaskedEntry Placeholder="Number of registration" Mask="XXXXX.XXXXX.XX-XX  (XX)" ></control:MaskedEntry>
+    </StackLayout>
+
+</ContentPage>
