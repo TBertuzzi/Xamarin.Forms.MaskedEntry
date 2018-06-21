@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:MaskedEntrySample"
              xmlns:control="clr-namespace:Xamarin.Forms.MaskedEntry;assembly=Xamarin.Forms.MaskedEntry"
-             x:Class="MaskedEntrySample.MainPage" Padding="0,0,20,0">
+             x:Class="MaskedEntrySample.MainPage" Padding="0,20,0,0">
 
     <StackLayout>
         <Label Text="Phone"></Label>
