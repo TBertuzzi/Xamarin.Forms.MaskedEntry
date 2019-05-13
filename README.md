@@ -14,7 +14,7 @@ X can be used both to demonstrate where values ​​should be in the masks, and
 
 |Name|Info|
 | ------------------- | :------------------: |
-|Xamarin.Forms.MaskedEntry|[![NuGet](https://img.shields.io/badge/nuget-1.0.0-blue.svg)](https://www.nuget.org/packages/Xamarin.Forms.MaskedEntry/)|
+|Xamarin.Forms.MaskedEntry|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.MaskedEntry)](https://www.nuget.org/packages/Xamarin.Forms.MaskedEntry/)|
 
 
 **Platform Support**
