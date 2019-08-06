@@ -2,6 +2,8 @@
 
 Use mask in your Xamarin.Forms apps
 
+Based on MaskedBehavior by [Adam Pedley](https://github.com/adamped) (https://xamarinhelp.com/masked-entry-in-xamarin-forms/).
+
 When we need to use masks in Xamarin.Forms we end up customizing a control or using behaviors.
 
 MaskedEntry is a custom entry to use any type of mask. just use X between the sequence of characters you want to configure.
