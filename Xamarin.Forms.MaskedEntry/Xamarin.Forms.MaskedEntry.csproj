@@ -5,7 +5,7 @@
     <Authors>tbertuzzi</Authors>
     <Company>KBits</Company>
     <Description>Use masks in your entrys</Description>
-    <Copyright>Copyright ©2018 KBits</Copyright>
+    <Copyright>Copyright ©2021 tbertuzzi</Copyright>
     <PackageLicenseUrl>http://opensource.org/licenses/MS-PL</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/TBertuzzi/Xamarin.Forms.MaskedEntry</PackageProjectUrl>
     <RepositoryUrl>https://github.com/TBertuzzi/Xamarin.Forms.MaskedEntry</RepositoryUrl>
@@ -13,6 +13,7 @@
     <PackageTags>xamarin xamarin.forms entry masked mask</PackageTags>
     <PackageReleaseNotes>Initial Version</PackageReleaseNotes>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
