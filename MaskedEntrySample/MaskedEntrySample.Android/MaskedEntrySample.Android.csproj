@@ -15,7 +15,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
@@ -92,7 +91,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MaskedEntrySample\MaskedEntrySample.csproj">
-      <Project>{5FEF6691-0819-4997-9041-BFBB2FB4D401}</Project>
+      <Project>{BE372AB1-7BF5-4793-A1F0-78AF9C2A2DF5}</Project>
       <Name>MaskedEntrySample</Name>
     </ProjectReference>
   </ItemGroup>
